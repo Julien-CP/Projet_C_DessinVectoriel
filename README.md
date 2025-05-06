@@ -4,7 +4,7 @@ Projet réalisé dans le cadre du cours *Algorithmique et structure de données*
 
 ## Présentation
 
-Ce projet est un éditeur de dessin vectoriel réalisé en C, permettant de tracer différentes formes géométriques dans une interface textuelle à base de caractères. Il a été conçu en binôme dans le cadre du cours de programmation en L1 à l'EFREI Paris.
+Ce projet est un éditeur de dessin vectoriel réalisé en C, permettant de tracer différentes formes géométriques dans une interface textuelle à base de caractères.
 
 ## Membres du projet
 
